@@ -1,4 +1,4 @@
-# the-holy-book-of-projecting
+# P-N; The Solo Project Management Methodology
 This repo contains the documentation for The Holy Book of Project-ing.
 
 The goal of this book is to provide a framework to manage N-number of projects while still making progress. It's meant to facilitate the organic growth of project scopes, but manage the overwhelming cognitive load and prioritize ideas.
