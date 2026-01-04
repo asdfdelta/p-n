@@ -25,9 +25,9 @@ The only optional field in P-N, adding *how* you're going to accomplish your pro
 Add up to a few sentences describing where the project is at. It shouldn't be immensely complex or have diagrams, but it should be enough to explain to someone familiar with the project where it is at.
 
 ## Checkpoints
-[x] Checkpoint 1, written in the past tense.
-[ ] Checkpoints are written in the past tense so when the statement becomes true, you can check it off.
-[ ] This helps maintain the forward-thinking aspect of checkpoints of lowest complexity
+- [x] Checkpoint 1, written in the past tense.
+- [ ] Checkpoints are written in the past tense so when the statement becomes true, you can check it off.
+- [ ] This helps maintain the forward-thinking aspect of checkpoints of lowest complexity
 
 ## Braindump
 
